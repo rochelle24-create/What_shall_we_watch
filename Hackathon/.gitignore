@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Project data and generated files
+data/
+.data/
+models/
+outputs/
+critic_sample_10k.csv
+feedback.csv
